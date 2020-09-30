@@ -1,2 +1,2 @@
 # tableViewExemple
-Exemplo de TableView - Curso Alura
+Exemplo de TableView Swift - Curso Alura
